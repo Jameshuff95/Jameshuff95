@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jameshuff95
-- 👀 I’m interested in web and app development.
-- 🌱 I’m currently learning SQL.
-- 💞️ I’m looking to collaborate on open-source projects, private projects.
+- 👋 Hi, I’m James!
+- As a self-taught developer I’m relatively new to github but plan to master it and use it for version control over my projects.
+- 🌱 I’m currently learning Postgres, Bash and SQL via freeCodeCamp and other online sources.
+- 💞️ I’m looking to start a career in web development. Currently seeking a junior-level position. 

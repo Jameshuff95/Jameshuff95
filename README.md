@@ -28,7 +28,7 @@ Frontend Skills:
 
   Through various sources online I have gained a strong understanding in HTML, CSS, and Javascript. 
 
-  Javascript Technologies I have familiarity but limited experience in: jQuery, SCSS/SASS, d3, React.
+  Javascript Technologies I have familiarity but limited experience in jQuery, SCSS/SASS, d3.js and React.js.
 
   I have relavent certifications in these areas viewable in my portfolio.
 

@@ -1,14 +1,12 @@
 ## About Me
 
-Welcome to my README file! This document provides an introduction to who I am, my skills, and my passions. Whether you are a potential collaborator, employer, or simply curious about me, this section will give you a glimpse into my background and interests.
+Welcome to my README file! This document provides an introduction to who I am and my passions. Whether you are a potential collaborator, employer, or simply curious about me, this section will give you a glimpse into my background and interests.
 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Skills](#skills)
 - [Interests](#interests)
 - [Projects](#projects)
-- [Contact](#contact)
 
 ## Introduction
 
@@ -22,26 +20,6 @@ Overall my general life-long love for technology and my work experience have mad
 
 I am currently seeking a junior or entry-level position in the web development field.
 
-## Skills
-
-Frontend Skills:
-
-  Through various sources online I have gained a strong understanding in HTML, CSS, and Vanilla Javascript. 
-
-  Javascript technologies I have familiarity with but limited experience in jQuery, SCSS/SASS, d3.js and React.js.
-
-  I have relavent certifications in these areas viewable in my portfolio.
-
-Backend Skills:
-
-  I have learned the basics of php and python via Sololearn and the certifications for these areas viewable in my portfolio. I have also been learning postgres, bash and SQL 
-  independently on freeCodeCamp running a virtual machine while taking classes at Capella University online where I am beginning a formal education in backend technologies, 
-  and am currently studying mariaDB.
-
 ## Interests
 
 I have other interests outside of the digital realm as well but my favorite is playing music via guitar. Not only is it good for my de-stressing but I find that daily practice keeps me sharp, focused, and strangely, allows me time to think about coding problems without the stress of staring at a blank screen or incorrect code. Also improvization with chord progressions ands scales translates into my web development work by allowing me to approach coding challenges with fresh ideas and innovative solutions. The discipline cultivated through playing guitar helps me stay focused, committed, and determined with my web development projects.
-
-## Contact
-
-View My contact information via my portfolio. Links to my linkedIn, github and codepen are there as well.
